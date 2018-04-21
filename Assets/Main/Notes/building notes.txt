@@ -1,0 +1,18 @@
+Building Notes:
+Looks like the reference uses:
+-Standard building material as base texture
+-Windows layered on top
+-Door and "storefront window" at bottom of building
+
+ROADS:
+-Lane width is 3.7m
+-Average (city?) neighborhood curb to curb is 8.5344m or 28ft (2 lanes)
+
+
+SkyScraper
+-1:10 or 1:12? base:height ratio
+-minimum? height is 150m
+
+Reference:
+Me - 73ish ft or 22.2m
+House 80x20??x50ft or 24x6x15
