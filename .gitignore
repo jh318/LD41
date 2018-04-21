@@ -9,6 +9,8 @@ Assembly-*
 Library/*
 Assets/Vendor/ProCore/*
 Temp/*
+Assets/3DGameKit/*
+Assets/3DGamekit.meta
 *.csproj
 *.sln
 *.userprefs
